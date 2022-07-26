@@ -4,7 +4,8 @@
 
 A.Clear instructions for how to REQUEST data from the microservice you implemented. Include an example call.
   First when the user clicks the info link, the main application request URL by sending row index of the csv. 
-  <src="https://user-images.githubusercontent.com/103084098/180935895-5381a8f9-da70-4a54-99df-2141df4ea0a0.png">
+  <img width="362" alt="Screen Shot 2022-07-25 at 11 11 32 PM" src="https://user-images.githubusercontent.com/103084098/180936711-e8f693f3-d5b3-42bb-b6ef-8f073bf911c0.png">
+
   
   Second, the microservice receives the request from the main application.
   <img width="326" alt="Screen Shot 2022-07-25 at 11 12 58 PM" src="https://user-images.githubusercontent.com/103084098/180936108-45d9b8f5-504b-489a-969c-f5783fce65b6.png">
