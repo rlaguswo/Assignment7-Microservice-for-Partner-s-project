@@ -1,9 +1,11 @@
 # CS361-Assignment7-MLS-player-Microservice
 
 Instructions for Using Microservice
-1. a
+1. Put "S.csv" and "Microservice.py" files in the same location where "app.py" is.
 
-2. b
+2. Run "python3 Microservice.py", and then run "python3 app.py" (It is okay if you do this in reverse.)
+
+3. The microservice and the app request and receive data as below. 
 
 
 
