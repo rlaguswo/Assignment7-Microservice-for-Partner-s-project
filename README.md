@@ -8,6 +8,7 @@ Instructions for Using Microservice
 3. The microservice and the app request and receive data as below. 
 
 
+Instructions for communication pipeline in Microservice
 
 A.Clear instructions for how to REQUEST data from the microservice you implemented. Include an example call.
   
