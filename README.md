@@ -1,7 +1,8 @@
 # CS361-Assignment7-MLS-player-Microservice
 
 <Instructions for Using Microservice>
-
+1. a
+2. b
 
 
 
