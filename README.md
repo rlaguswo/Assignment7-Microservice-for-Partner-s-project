@@ -38,4 +38,4 @@ The main application receives Data(created URL) from the microservice by using z
 
 
 C. UML Sequance Diagram. 
-<img width="80%" src= "https://user-images.githubusercontent.com/103084098/180919103-de84842a-0862-4523-894c-0ba5ee97875a.jpeg">
+<img width="80%"  src="https://user-images.githubusercontent.com/103084098/205610654-ea63313b-ca3c-44b3-8883-3d060c9ec395.png">
